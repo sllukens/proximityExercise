@@ -1,0 +1,9 @@
+2. The boxes even out to be the same width.
+3. Both column/boxes go to the right.
+4. Both column/boxes go to the left.
+5. The columns go off the screen, have to scroll over to find them.
+6. Div1 goes to the right, Div2 goes to the left.
+7. The column doesn't increase in width, but length. The font size becomes 2000, and the letters do not stay within the column
+8. Both columns become wider.
+9. As you resize the browser, the columns move with it, so that the columns always stay within the borders of the page.
+10. 
